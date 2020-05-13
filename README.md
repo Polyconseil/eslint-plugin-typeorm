@@ -1,4 +1,4 @@
-# eslint-plugin-typeorm-no-double-where
+# @taccolaa/eslint-plugin-typeorm
 
 ` npm install @taccolaa/eslint-plugin-typeorm --save-dev `
 
