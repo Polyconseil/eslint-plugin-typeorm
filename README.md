@@ -1,0 +1,1 @@
+# eslint-plugin-typeorm-no-double-where

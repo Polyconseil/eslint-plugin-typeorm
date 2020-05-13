@@ -1,0 +1,12 @@
+{
+  "name": "eslint-plugin-typeorm",
+  "version": "1.0.0",
+  "description": "Detects usages of .where().where()",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Polyconseil/eslint-plugin-typeorm.git"
+  },
+  "author": "TaccolaA",
+  "license": "MIT"
+}
